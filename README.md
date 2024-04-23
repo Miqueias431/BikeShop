@@ -78,4 +78,4 @@ prosperando no mercado de bicicletas.
 
 #### Esquema de diagrama
 
-!["Esquema bikeshop diagrama"](diagramaBikeShop.PNG)
+!["Esquema bikeshop diagrama"](diagramaBikeShop.png)
